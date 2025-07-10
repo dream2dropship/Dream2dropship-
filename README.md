@@ -84,7 +84,7 @@
     <header>
       <h1>Dream 2 Dropship</h1>
       <p>Launch your online income</p>
-      <a class="btn" href="https://instagram.com/dream_2_dropshi" target="_blank">Start Now</a>
+      <a class="btn" href="https://instagram.com/dream_2_dropship" target="_blank">Start Now</a>
     </header>
 
     <section>
